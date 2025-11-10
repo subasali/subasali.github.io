@@ -189,6 +189,23 @@
     </div>
   </section>
 
+<section id="publications">
+    <h2>Publications</h2>
+    <div class="card">
+      <ol class="list" style="list-style-type: decimal;">
+        <li>Ali, S. A., Sarrica, M., Sammut, G., &amp; Bigazzi, S. (2025). <i>Acts from the cracks: Representations and positions of the decolonial in the geopolitical (de)construction of power-entangled knowledge.</i> <em>British Journal of Social Psychology, 64</em>(1), e12835. 
+          <a href="https://doi.org/10.1111/bjso.12835" target="_blank" rel="noopener">https://doi.org/10.1111/bjso.12835</a>
+        </li>
+
+        <li>Serdült, S., Harmouche, M., Ali, S. A., &amp; Bigazzi, S. (2022). <i>Refugee crisis in the light of identity.</i> <em>Papers on Social Representations, 31</em>(1), 3–1. 
+          <a href="https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity" target="_blank" rel="noopener">
+            https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity
+          </a>
+        </li>
+      </ol>
+    </div>
+  </section>
+
   <section id="conferences">
   <h2>Conferences & Presentations</h2>
 
