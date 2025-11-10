@@ -123,32 +123,35 @@
 
   <section id="intro">
     <h1>Assistant Lecturer &amp; PhD Candidate</h1>
-    <p><b>Institutions:</b> University of Pécs &amp; La Sapienza University of Rome</p>
+    <p><b>Institutions:</b> University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy)</p>
     <p><b>Email:</b> 
       <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a> · 
       <a href="mailto:subas.amjad@uniroma1.it">subas.amjad@uniroma1.it</a>
     </p>
-    <p><b>Research Areas:</b> Social Representations · Decolonial Theory · Peace Psychology</p>
+    <p><b>Research Areas:</b> Social Representations · Decolonial Theory · Peace Psychology · Epistemic Justice</p>
   </section>
 
   <section id="about">
     <h2>About</h2>
     <div class="card">
       <p>
-        My name is <b>Subas Ali</b>. I am an Assistant Lecturer and a PhD Candidate jointly affiliated with the
-        <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy). My work explores the intersections of
-        <i>social representations, decolonial theory, and peace psychology</i> — with a focus on how knowledge, identity, and power
-        intersect in postcolonial and epistemically marginalized contexts.
+        My name is <b>Subas Ali</b>. I am an <b>Assistant Lecturer</b> and a <b>PhD Candidate</b> jointly affiliated with the 
+        <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy) as part of the Joint Doctoral Program in 
+        <i>Social Representations, Culture and Communication</i>.
       </p>
       <p>
-        I teach and supervise undergraduate courses in cultural and social psychology, while my doctoral research engages with 
-        the role of representation and affect in decolonial movements.
+        My work explores the intersections of <i>social representations, decolonial theory, and peace psychology</i> — focusing on how 
+        knowledge, identity, and affect operate within postcolonial, global, and epistemically marginalized contexts.
+      </p>
+      <p>
+        I teach and supervise undergraduate courses in cultural and social psychology, while my doctoral research examines 
+        <i>violence as a social representation</i> — as a political and affective language of decolonial resistance.
       </p>
       <p>
         <b>Education:</b><br>
-        PhD Candidate, Social Representations, Culture and Communication (University of Pécs / La Sapienza University of Rome)<br>
-        MSc, Psychology, University of Pécs<br>
-        BA, Psychology, [Add your undergraduate institution if desired]
+        • <b>Joint PhD</b> in Social Representations, Culture and Communication — University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy)<br>
+        • <b>MA</b> in Clinical and Health Psychology — Eötvös Loránd University (Budapest, Hungary)<br>
+        • <b>BA</b> in Psychology — University of Pécs (Hungary)
       </p>
     </div>
   </section>
@@ -157,7 +160,7 @@
     <h2>Research</h2>
     <div class="card">
       <p><b>Current Project:</b> "Violence as Representation: A Decolonial Reading through Social Representations Theory" — examining how political and affective dimensions of violence are constructed and legitimized across global contexts.</p>
-      <p><b>Keywords:</b> Decoloniality, Social Representations, Epistemic Justice, Collective Memory, Violence</p>
+      <p><b>Keywords:</b> Decoloniality · Social Representations · Epistemic Justice · Collective Memory · Affect and Resistance</p>
     </div>
   </section>
 
