@@ -1,12 +1,10 @@
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Subas Ali — Academic Profile</title>
   <meta name="description" content="Academic profile of Subas Ali: Assistant Lecturer and PhD Candidate at the University of Pécs and La Sapienza University in Rome." />
-
-  <!-- Typewriter Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
     :root {
@@ -25,7 +23,7 @@
       }
     }
     body {
-      font-family: "Courier Prime", "Courier New", monospace;
+      font-family: "Times New Roman", Times, serif;
       background: var(--bg);
       color: var(--fg);
       line-height: 1.6;
@@ -51,8 +49,8 @@
       gap: 12px;
     }
     .name {
-      font-size: 26px;
-      font-weight: 700;
+      font-size: 28px;
+      font-weight: bold;
       letter-spacing: 0.5px;
     }
     nav a {
@@ -65,8 +63,9 @@
       border-bottom: 2px solid currentColor;
     }
     h1 {
-      font-size: 36px;
+      font-size: 34px;
       margin-bottom: 6px;
+      font-weight: bold;
     }
     h2 {
       text-transform: uppercase;
@@ -77,7 +76,7 @@
     }
     .card {
       background: var(--card);
-      padding: 14px 16px;
+      padding: 16px 18px;
       border-radius: 12px;
       margin-bottom: 20px;
       border: 1px solid rgba(127,127,127,.2);
@@ -102,7 +101,7 @@
         align-items: flex-start;
       }
       nav a { margin: 0 10px 0 0; }
-      h1 { font-size: 28px; }
+      h1 { font-size: 26px; }
     }
   </style>
 
