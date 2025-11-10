@@ -164,16 +164,24 @@
     </div>
   </section>
 
-  <section id="publications">
-    <h2>Selected Publications</h2>
-    <div class="card">
-      <ol class="list">
-        <li>Ali, S. (2025). “Violence, Representation, and Decolonial Affect.” <i>Journal of Theoretical Social Psychology</i>.</li>
-        <li>Ali, S. (2024). “The Power of Naming: Indigenous Psychology and Epistemic Boundaries.” <i>In press, Journal of Community Psychology.</i></li>
-        <li>Ali, S. (2023). “Reimagining Peace: Social Representations of Decolonial Futures.” <i>Proceedings of the CIRS Conference.</i></li>
-      </ol>
-    </div>
-  </section>
+ <section id="publications">
+  <h2>Publications</h2>
+  <div class="card">
+    <ol class="list" style="list-style-type: decimal;">
+
+      <li>Ali, S. A., Sarrica, M., Sammut, G., & Bigazzi, S. (2025). <i>Acts from the cracks: Representations and positions of the decolonial in the geopolitical (de)construction of power-entangled knowledge.</i> <em>British Journal of Social Psychology, 64</em>(1), e12835. 
+        <a href="https://doi.org/10.1111/bjso.12835" target="_blank" rel="noopener">https://doi.org/10.1111/bjso.12835</a>
+      </li>
+
+      <li>Serdült, S., Harmouche, M., Ali, S. A., & Bigazzi, S. (2022). <i>Refugee crisis in the light of identity.</i> <em>Papers on Social Representations, 31</em>(1), 3–1. 
+        <a href="https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity" target="_blank" rel="noopener">
+          https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity
+        </a>
+      </li>
+
+    </ol>
+  </div>
+</section>
 
   <section id="teaching">
     <h2>Teaching</h2>
