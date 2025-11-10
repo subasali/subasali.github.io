@@ -206,6 +206,71 @@
     </div>
   </section>
 
+<section id="teaching">
+  <h2>Teaching</h2>
+  <div class="card">
+
+    <h3>Courses Taught</h3>
+    <table style="width:100%; border-collapse: collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Subject Code</th>
+          <th align="left">Subject Name</th>
+          <th align="left">Credit</th>
+          <th align="left">Lecturer</th>
+          <th align="left">Course Details</th>
+          <th align="left">Administrative Unit</th>
+          <th align="left">Organisation</th>
+          <th align="left">Mode</th>
+          <th align="left">Duration / Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>PSZI1019</td><td>Research Practice I</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2024)</td></tr>
+        <tr><td>PSZI1023</td><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2024)</td></tr>
+        <tr><td>PSZI0796</td><td>Social Psychology II (Class 1)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2nd Semester (2024)</td></tr>
+        <tr><td>PSZI0796</td><td>Social Psychology II (Class 2)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2nd Semester (2024)</td></tr>
+        <tr><td>PSZI0033</td><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2nd Semester (2024)</td></tr>
+        <tr><td>PSZI0027</td><td>Peace Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2nd Semester (2024)</td></tr>
+        <tr><td>PSZI1020</td><td>Research Practice II</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2025)</td></tr>
+        <tr><td>PSZI0033</td><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2025)</td></tr>
+        <tr><td>PSZI1025</td><td>Occupational Socialization</td><td>4</td><td>Subas A. Ali</td><td>Lecture</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2025)</td></tr>
+        <tr><td>PSZI1023</td><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1st Semester (2025)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Teaching Assistance</h3>
+    <table style="width:100%; border-collapse: collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Subject Code</th>
+          <th align="left">Subject Name</th>
+          <th align="left">Credit</th>
+          <th align="left">Lecturer</th>
+          <th align="left">Course Details</th>
+          <th align="left">Administrative Unit</th>
+          <th align="left">Organisation</th>
+          <th align="left">Mode</th>
+          <th align="left">Duration / Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>PSZI0027 - 2022232 - PSZI0027</td><td>Peace Psychology</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2024)</td></tr>
+        <tr><td>PSZI0794-2022232-PSZI079402/PSZIS004002</td><td>Social Psychology I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2024)</td></tr>
+        <tr><td>PSZKA0301-2022231-PSZKA0301</td><td>Research Practice I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2024)</td></tr>
+        <tr><td>—</td><td>Assessment of Attitudes</td><td>—</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1 Semester (2024–2025)</td></tr>
+        <tr><td>—</td><td>Research Practice I</td><td>—</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>1 Semester (2024–2025)</td></tr>
+        <tr><td>PSZI0027 - 2022232 - PSZI0027</td><td>Peace Psychology</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2022–2023)</td></tr>
+        <tr><td>PSZI0794-2022232-PSZI079402/PSZIS004002</td><td>Social Psychology I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2022–2023)</td></tr>
+        <tr><td>PSZKA0301-2022231-PSZKA0301</td><td>Research Practice I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2022–2023)</td></tr>
+        <tr><td>PSZI1020-2022231-PSZI102006</td><td>Research Practice II</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>Faculty of Humanities and Social Sciences</td><td>University of Pécs</td><td>In Person</td><td>2 Semesters (2022–2023)</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
   <section id="contact">
     <h2>Contact</h2>
     <div class="card">
