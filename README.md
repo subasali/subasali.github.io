@@ -223,16 +223,16 @@
         </tr>
       </thead>
       <tbody>
-        <tr><td>Research Practice I</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>University of Pécs</td><td>1st Semester (2024)</td></tr>
-        <tr><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1st Semester (2024)</td></tr>
-        <tr><td>Social Psychology II (Class 1)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>2nd Semester (2024)</td></tr>
-        <tr><td>Social Psychology II (Class 2)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>2nd Semester (2024)</td></tr>
-        <tr><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>2nd Semester (2024)</td></tr>
-        <tr><td>Peace Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>2nd Semester (2024)</td></tr>
-        <tr><td>Research Practice II</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>University of Pécs</td><td>1st Semester (2025)</td></tr>
-        <tr><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>1st Semester (2025)</td></tr>
-        <tr><td>Occupational Socialization</td><td>4</td><td>Subas A. Ali</td><td>Lecture</td><td>University of Pécs</td><td>1st Semester (2025)</td></tr>
-        <tr><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1st Semester (2025)</td></tr>
+        <tr><td>Research Practice I</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Social Psychology II (Class 1)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Social Psychology II (Class 2)</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Peace Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>1 Semester (2024)</td></tr>
+        <tr><td>Research Practice II</td><td>5</td><td>Subas A. Ali</td><td>Supervision</td><td>University of Pécs</td><td>1 Semester (2025)</td></tr>
+        <tr><td>Critical Psychology</td><td>3</td><td>Subas A. Ali</td><td>Elective Seminar</td><td>University of Pécs</td><td>1 Semester (2025)</td></tr>
+        <tr><td>Occupational Socialization</td><td>4</td><td>Subas A. Ali</td><td>Lecture</td><td>University of Pécs</td><td>1 Semester (2025)</td></tr>
+        <tr><td>Assessment of Attitudes</td><td>4</td><td>Subas A. Ali</td><td>Seminar</td><td>University of Pécs</td><td>1 Semester (2025)</td></tr>
       </tbody>
     </table>
   </div>
