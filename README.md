@@ -122,10 +122,10 @@
   </header>
 
   <section id="intro">
-    <h1>YOUR TITLE / POSITION</h1>
-    <p><b>Institution:</b> YOUR DEPARTMENT, UNIVERSITY</p>
-    <p><b>Email:</b> <a href="mailto:YOUR.EMAIL@DOMAIN.TLD">YOUR.EMAIL@DOMAIN.TLD</a></p>
-    <p><b>Research Areas:</b> FIELD A · FIELD B · FIELD C</p>
+    <h1>Subas Ali / Assistant Lecturer and PhD Candidate</h1>
+    <p><b>University of Pécs :</b> Institute of Psychology</p>
+    <p><b>Email:</b> <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a></p>
+    <p><b>Research Areas:</b> Decolonisation · Social Psychology · Critical Studies</p>
   </section>
 
   <section id="about">
