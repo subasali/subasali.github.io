@@ -206,7 +206,7 @@
     </div>
   </section>
 
-  <section id="conferences">
+ <section id="conferences">
   <h2>Conferences & Presentations</h2>
 
   <!-- 2025 -->
@@ -263,6 +263,57 @@
           <td>Lahore, Pakistan</td>
           <td>University of Management and Technology</td>
           <td>6 Aug 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 2024 -->
+  <div class="card">
+    <h3>2024</h3>
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Conference</th>
+          <th align="left">Title / Session</th>
+          <th align="left">Role</th>
+          <th align="left">Location</th>
+          <th align="left">Organisation</th>
+          <th align="left">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>ESA 2024 Conference — Tension, Trust and Transformation</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Porto, Portugal</td>
+          <td>European Sociological Association</td>
+          <td>26 Aug – 1 Sep 2024</td>
+        </tr>
+        <tr>
+          <td>Joint PhD — Summer School</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Iași, Romania</td>
+          <td>Alexandru Ioan Cuza University</td>
+          <td>7–12 Jul 2024</td>
+        </tr>
+        <tr>
+          <td>XIX PhD Meeting in Psychology — Imagining the (Im)Possible: The Role of Psychology in Linking Past, Present and Future Challenges</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Lisbon, Portugal</td>
+          <td>CIS-Iscte Centre for Psychological Research and Social Intervention</td>
+          <td>23–24 May 2024</td>
+        </tr>
+        <tr>
+          <td>Joint PhD — Winter School</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Lecce, Italy</td>
+          <td>The University of Salento</td>
+          <td>13–18 Feb 2024</td>
         </tr>
       </tbody>
     </table>
