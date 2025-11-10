@@ -158,7 +158,7 @@
       <p>
         My name is <b>Subas Ali</b>. I am an <b>Assistant Lecturer</b> and a <b>PhD Candidate</b> jointly affiliated with the 
         <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy), as part of the Joint Doctoral Program in 
-        <i>Social Representations, Culture and Communication</i> (2022–ongoing).
+        <i>Social Representations, Culture and Communication</i>.
       </p>
 
       <p>
