@@ -189,24 +189,7 @@
     </div>
   </section>
 
-  <section id="publications">
-    <h2>Publications</h2>
-    <div class="card">
-      <ol class="list" style="list-style-type: decimal;">
-        <li>Ali, S. A., Sarrica, M., Sammut, G., &amp; Bigazzi, S. (2025). <i>Acts from the cracks: Representations and positions of the decolonial in the geopolitical (de)construction of power-entangled knowledge.</i> <em>British Journal of Social Psychology, 64</em>(1), e12835. 
-          <a href="https://doi.org/10.1111/bjso.12835" target="_blank" rel="noopener">https://doi.org/10.1111/bjso.12835</a>
-        </li>
-
-        <li>Serdült, S., Harmouche, M., Ali, S. A., &amp; Bigazzi, S. (2022). <i>Refugee crisis in the light of identity.</i> <em>Papers on Social Representations, 31</em>(1), 3–1. 
-          <a href="https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity" target="_blank" rel="noopener">
-            https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity
-          </a>
-        </li>
-      </ol>
-    </div>
-  </section>
-
-<section id="conferences">
+  <section id="conferences">
   <h2>Conferences & Presentations</h2>
 
   <!-- 2025 -->
@@ -249,39 +232,20 @@
           <td>17–23 Mar 2025</td>
         </tr>
         <tr>
+          <td>Joint PhD — Summer School</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Aix-en-Provence, France</td>
+          <td>Université d’Aix-Marseille</td>
+          <td>Summer 2025</td>
+        </tr>
+        <tr>
           <td>Second International Conference on Critical Peace Studies</td>
           <td>—</td>
           <td>Presenter</td>
           <td>Lahore, Pakistan</td>
           <td>University of Management and Technology</td>
           <td>6 Aug 2025</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <!-- 2024 -->
-  <div class="card">
-    <h3>2024</h3>
-    <table style="width:100%; border-collapse:collapse; font-size:15px;">
-      <thead style="border-bottom:1px solid #999;">
-        <tr>
-          <th align="left">Conference</th>
-          <th align="left">Title / Session</th>
-          <th align="left">Role</th>
-          <th align="left">Location</th>
-          <th align="left">Organisation</th>
-          <th align="left">Date</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Joint PhD — Summer School</td>
-          <td>—</td>
-          <td>Presenter</td>
-          <td>Aix-en-Provence, France</td>
-          <td>Université d’Aix-Marseille</td>
-          <td>Summer 2024</td>
         </tr>
       </tbody>
     </table>
