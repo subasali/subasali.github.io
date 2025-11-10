@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>YOUR NAME — Academic Profile</title>
+  <title>Subas Amjad Ali — Academic Profile</title>
   <meta name="description" content="Academic profile of Subas Ali: research interests, publications, teaching, and contact." />
 
   <!-- Typewriter Font -->
