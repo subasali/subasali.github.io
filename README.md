@@ -216,7 +216,7 @@
       <p><b>Office:</b> Faculty of Humanities and Social Sciences, University of Pécs</p>
       <p><b>Links:</b> 
         <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=NY5oD_YAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · 
-        <a href="https://orcid.org/0000-0001-5346-9214" target="_blank" rel="noopener">ORCID</a> · 
+        <a href="https://orcid.org/0000-0001-5346-9214" target="_blank" rel="noopener">ORCID</a>
       </p>
     </div>
   </section>
