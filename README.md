@@ -254,8 +254,8 @@
         <tr><td>Peace Psychology</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2024)</td></tr>
         <tr><td>Social Psychology I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2024)</td></tr>
         <tr><td>Research Practice I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2024)</td></tr>
-        <tr><td>Assessment of Attitudes</td><td>—</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>University of Pécs</td><td>1 Semester (2024–2025)</td></tr>
-        <tr><td>Research Practice I</td><td>—</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>University of Pécs</td><td>1 Semester (2024–2025)</td></tr>
+        <tr><td>Assessment of Attitudes</td><td>4</td>td>—</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>University of Pécs</td><td>1 Semester (2024–2025)</td></tr>
+        <tr><td>Research Practice I</td><td>—</td><td>5</td><td>Subas Amjad, Seigler Anna</td><td>BA Psychology</td><td>University of Pécs</td><td>1 Semester (2024–2025)</td></tr>
         <tr><td>Peace Psychology</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2022–2023)</td></tr>
         <tr><td>Social Psychology I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2022–2023)</td></tr>
         <tr><td>Research Practice I</td><td>N/A</td><td>Dr. Sara Bigazzi</td><td>BA Psychology</td><td>University of Pécs</td><td>2 Semesters (2022–2023)</td></tr>
