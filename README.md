@@ -136,8 +136,8 @@
   <div class="card">
     <p>
       My name is <b>Subas Ali</b>. I am an <b>Assistant Lecturer</b> and a <b>PhD Candidate</b> jointly affiliated with the 
-      <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy) as part of the Joint Doctoral Program in 
-      <i>Social Representations, Culture and Communication</i>.
+      <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy), as part of the Joint Doctoral Program in 
+      <i>Social Representations, Culture and Communication</i> (2022–ongoing).
     </p>
 
     <p>
@@ -161,9 +161,9 @@
 
     <p>
       <b>Education:</b><br>
-      • <b>Joint PhD</b> in Social Representations, Culture and Communication — University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy)<br>
-      • <b>MA</b> in Clinical and Health Psychology — Eötvös Loránd University (Budapest, Hungary)<br>
-      • <b>BA</b> in Psychology — University of Pécs (Hungary)
+      • <b>Joint PhD</b> in Social Representations, Culture and Communication — University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy), <i>2022–ongoing</i><br>
+      • <b>MA</b> in Clinical and Health Psychology — Eötvös Loránd University (Budapest, Hungary), <i>2019–2021</i><br>
+      • <b>BA</b> in Psychology — University of Pécs (Hungary), <i>2016–2019</i>
     </p>
   </div>
 </section>
