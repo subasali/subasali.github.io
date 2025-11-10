@@ -206,6 +206,158 @@
     </div>
   </section>
 
+<section id="conferences">
+  <h2>Conferences & Presentations</h2>
+
+  <!-- 2025 -->
+  <div class="card">
+    <h3>2025</h3>
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Conference</th>
+          <th align="left">Title / Session</th>
+          <th align="left">Role</th>
+          <th align="left">Location</th>
+          <th align="left">Organisation</th>
+          <th align="left">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>The 17th International Conference on Social Representations (CIRS)</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Brest, France</td>
+          <td>Université de Bretagne Occidentale</td>
+          <td>7–12 Jul 2025</td>
+        </tr>
+        <tr>
+          <td>Alternate Routes Conference — Starting Over: Mass Politics and the Future of the Left</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Naples, Italy</td>
+          <td>University of Naples Federico II</td>
+          <td>27–30 May 2025</td>
+        </tr>
+        <tr>
+          <td>Joint PhD — Winter School</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Venice, Italy</td>
+          <td>Università Ca’ Foscari</td>
+          <td>17–23 Mar 2025</td>
+        </tr>
+        <tr>
+          <td>Second International Conference on Critical Peace Studies</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Lahore, Pakistan</td>
+          <td>University of Management and Technology</td>
+          <td>6 Aug 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 2024 -->
+  <div class="card">
+    <h3>2024</h3>
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Conference</th>
+          <th align="left">Title / Session</th>
+          <th align="left">Role</th>
+          <th align="left">Location</th>
+          <th align="left">Organisation</th>
+          <th align="left">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Joint PhD — Summer School</td>
+          <td>—</td>
+          <td>Presenter</td>
+          <td>Aix-en-Provence, France</td>
+          <td>Université d’Aix-Marseille</td>
+          <td>Summer 2024</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 2023 -->
+  <div class="card">
+    <h3>2023</h3>
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Conference</th>
+          <th align="left">Title / Session</th>
+          <th align="left">Role</th>
+          <th align="left">Location</th>
+          <th align="left">Organisation</th>
+          <th align="left">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>18th International Symposium on the Contributions of Psychology to Peace — Forms of Solidarity</td>
+          <td>Deconstruct, Reconstruct, Decolonise — Decolonisation of Knowledge/Reality</td>
+          <td>Presenter</td>
+          <td>Pécs, Hungary</td>
+          <td>University of Pécs</td>
+          <td>27 Aug – 1 Sep 2023</td>
+        </tr>
+        <tr>
+          <td>18th International Symposium on the Contributions of Psychology to Peace — Forms of Solidarity</td>
+          <td>Role of Psychology in Peace</td>
+          <td>Roundtable Moderator</td>
+          <td>Pécs, Hungary</td>
+          <td>University of Pécs</td>
+          <td>27 Aug – 1 Sep 2023</td>
+        </tr>
+        <tr>
+          <td>18th International Symposium on the Contributions of Psychology to Peace — Forms of Solidarity</td>
+          <td>—</td>
+          <td>Organiser</td>
+          <td>Pécs, Hungary</td>
+          <td>University of Pécs</td>
+          <td>Dec 2022 – Aug 2023</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 2022 -->
+  <div class="card">
+    <h3>2022</h3>
+    <table style="width:100%; border-collapse:collapse; font-size:15px;">
+      <thead style="border-bottom:1px solid #999;">
+        <tr>
+          <th align="left">Conference</th>
+          <th align="left">Title / Session</th>
+          <th align="left">Role</th>
+          <th align="left">Location</th>
+          <th align="left">Organisation</th>
+          <th align="left">Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>17th Symposium on the Contributions of Psychology to Peace — Peace Psychology and Global Challenges in 2022</td>
+          <td>—</td>
+          <td>Attendee</td>
+          <td>Australia / New Zealand</td>
+          <td>International Network for Peace Psychology</td>
+          <td>17–19 Nov 2022</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
 <section id="teaching">
   <h2>Teaching</h2>
 
