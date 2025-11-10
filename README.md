@@ -1,9 +1,10 @@
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Subas Amjad Ali — Academic Profile</title>
-  <meta name="description" content="Academic profile of Subas Ali: research interests, publications, teaching, and contact." />
+  <title>Subas Ali — Academic Profile</title>
+  <meta name="description" content="Academic profile of Subas Ali: Assistant Lecturer and PhD Candidate at the University of Pécs and La Sapienza University in Rome." />
 
   <!-- Typewriter Font -->
   <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
@@ -111,7 +112,7 @@
 <div class="wrap">
 
   <header>
-    <div class="name">YOUR NAME</div>
+    <div class="name">Subas Ali</div>
     <nav>
       <a href="#about">About</a>
       <a href="#research">Research</a>
@@ -122,23 +123,33 @@
   </header>
 
   <section id="intro">
-    <h1>Subas Ali / Assistant Lecturer and PhD Candidate</h1>
-    <p><b>University of Pécs :</b> Institute of Psychology</p>
-    <p><b>Email:</b> <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a></p>
-    <p><b>Research Areas:</b> Decolonisation · Social Psychology · Critical Studies</p>
+    <h1>Assistant Lecturer &amp; PhD Candidate</h1>
+    <p><b>Institutions:</b> University of Pécs &amp; La Sapienza University of Rome</p>
+    <p><b>Email:</b> 
+      <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a> · 
+      <a href="mailto:subas.amjad@uniroma1.it">subas.amjad@uniroma1.it</a>
+    </p>
+    <p><b>Research Areas:</b> Social Representations · Decolonial Theory · Peace Psychology</p>
   </section>
 
   <section id="about">
     <h2>About</h2>
     <div class="card">
       <p>
-        Write a short academic biography — your research focus, teaching areas, and intellectual interests.
-        Mention current projects or collaborations, and note key themes or disciplines you engage with.
+        My name is <b>Subas Ali</b>. I am an Assistant Lecturer and a PhD Candidate jointly affiliated with the
+        <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy). My work explores the intersections of
+        <i>social representations, decolonial theory, and peace psychology</i> — with a focus on how knowledge, identity, and power
+        intersect in postcolonial and epistemically marginalized contexts.
+      </p>
+      <p>
+        I teach and supervise undergraduate courses in cultural and social psychology, while my doctoral research engages with 
+        the role of representation and affect in decolonial movements.
       </p>
       <p>
         <b>Education:</b><br>
-        PhD, University Name, Year<br>
-        MSc, University Name, Year
+        PhD Candidate, Social Representations, Culture and Communication (University of Pécs / La Sapienza University of Rome)<br>
+        MSc, Psychology, University of Pécs<br>
+        BA, Psychology, [Add your undergraduate institution if desired]
       </p>
     </div>
   </section>
@@ -146,8 +157,8 @@
   <section id="research">
     <h2>Research</h2>
     <div class="card">
-      <p><b>Current Project:</b> "Project Title" — one sentence description of your research focus or question.</p>
-      <p><b>Keywords:</b> Method, Theme, Region, Theory</p>
+      <p><b>Current Project:</b> "Violence as Representation: A Decolonial Reading through Social Representations Theory" — examining how political and affective dimensions of violence are constructed and legitimized across global contexts.</p>
+      <p><b>Keywords:</b> Decoloniality, Social Representations, Epistemic Justice, Collective Memory, Violence</p>
     </div>
   </section>
 
@@ -155,9 +166,9 @@
     <h2>Selected Publications</h2>
     <div class="card">
       <ol class="list">
-        <li>YOUR NAME (2025). “Paper Title.” <i>Journal Name</i>, Volume(Issue), pp–pp. <a href="#">DOI</a></li>
-        <li>YOUR NAME, COAUTHOR (2024). “Book Chapter.” In <i>Book Title</i>, Publisher.</li>
-        <li>YOUR NAME (2023). “Conference Paper.” <i>Conference Name</i>, Location.</li>
+        <li>Ali, S. (2025). “Violence, Representation, and Decolonial Affect.” <i>Journal of Theoretical Social Psychology</i>.</li>
+        <li>Ali, S. (2024). “The Power of Naming: Indigenous Psychology and Epistemic Boundaries.” <i>In press, Journal of Community Psychology.</i></li>
+        <li>Ali, S. (2023). “Reimagining Peace: Social Representations of Decolonial Futures.” <i>Proceedings of the CIRS Conference.</i></li>
       </ol>
     </div>
   </section>
@@ -166,8 +177,9 @@
     <h2>Teaching</h2>
     <div class="card">
       <ul class="list">
-        <li><b>Course Name</b> — role, term, and brief description.</li>
-        <li><b>Course Name</b> — role, term, and brief description.</li>
+        <li><b>Cultural Psychology</b> — Lecturer, BA in Psychology, University of Pécs.</li>
+        <li><b>Peace Psychology</b> — Lecturer, BA in Psychology, University of Pécs.</li>
+        <li><b>Occupational Socialisation</b> — Instructor, Joint International Psychology Program.</li>
       </ul>
     </div>
   </section>
@@ -175,8 +187,11 @@
   <section id="contact">
     <h2>Contact</h2>
     <div class="card">
-      <p><b>Email:</b> <a href="mailto:YOUR.EMAIL@DOMAIN.TLD">YOUR.EMAIL@DOMAIN.TLD</a></p>
-      <p><b>Office:</b> Room #, Building, Campus, City</p>
+      <p><b>Email:</b> 
+        <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a> · 
+        <a href="mailto:subas.amjad@uniroma1.it">subas.amjad@uniroma1.it</a>
+      </p>
+      <p><b>Office:</b> Faculty of Humanities and Social Sciences, University of Pécs</p>
       <p><b>Links:</b> 
         <a href="https://scholar.google.com/">Google Scholar</a> · 
         <a href="https://orcid.org/">ORCID</a> · 
@@ -186,14 +201,13 @@
   </section>
 
   <footer>
-    <div>© <span id="year"></span> YOUR NAME</div>
+    <div>© <span id="year"></span> Subas Ali</div>
     <div>Last updated: <span id="lastmod"></span></div>
   </footer>
 
 </div>
 
 <script>
-  // Auto year and last modified
   document.getElementById('year').textContent = new Date().getFullYear();
   document.getElementById('lastmod').textContent = new Date(document.lastModified).toISOString().slice(0,10);
 </script>
