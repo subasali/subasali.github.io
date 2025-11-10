@@ -105,6 +105,28 @@
       h1 { font-size: 28px; }
     }
   </style>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Subas Ali",
+    "jobTitle": "Assistant Lecturer & PhD Candidate",
+    "affiliation": [
+      {"@type": "Organization", "name": "University of Pécs"},
+      {"@type": "Organization", "name": "La Sapienza University of Rome"}
+    ],
+    "email": [
+      "mailto:amjad.subas@edu.pte.hu",
+      "mailto:subas.amjad@uniroma1.it"
+    ],
+    "sameAs": [
+      "https://scholar.google.com/citations?view_op=list_works&hl=en&user=NY5oD_YAAAAJ",
+      "https://orcid.org/0000-0001-5346-9214"
+    ]
+  }
+  </script>
 </head>
 
 <body>
@@ -128,81 +150,61 @@
       <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a> · 
       <a href="mailto:subas.amjad@uniroma1.it">subas.amjad@uniroma1.it</a>
     </p>
+    <p><b>Scholar:</b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=NY5oD_YAAAAJ" target="_blank" rel="noopener">View publications on Google Scholar</a></p>
     <p><b>Research Areas:</b> Social Representations · Decolonial Theory · Peace Psychology · Epistemic Justice</p>
   </section>
 
   <section id="about">
-  <h2>About</h2>
-  <div class="card">
-    <p>
-      My name is <b>Subas Ali</b>. I am an <b>Assistant Lecturer</b> and a <b>PhD Candidate</b> jointly affiliated with the 
-      <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy), as part of the Joint Doctoral Program in 
-      <i>Social Representations, Culture and Communication</i> (2022–ongoing).
-    </p>
-
-    <p>
-      My research examines <b>decolonisation, social representations, and the geopolitics of knowledge (production)</b>, focusing on how 
-      psychology and academia reproduce or resist colonial power. Broadly, I am interested in <b>collective action</b> and the 
-      <b>affective and symbolic dimensions of violence</b> in political and revolutionary movements. My work also looks at how communities 
-      articulate resistance in light of systemic oppression, and how emotions such as <b>anger</b> and <b>hope</b> become mobilising 
-      forces for (social) change.
-    </p>
-
-    <p>
-      Additionally, I draw on <b>Dialogical Self Theory</b> and use <b>autoethnography</b> as a reflexive and decolonial methodological 
-      approach to explore <b>identity, positionality, and selfhood</b> from within these power structures. As an academic activist, 
-      my goal is to engage in scholarship that remains politically conscious and aligned with the principles for which I advocate.
-    </p>
-
-    <p>
-      I teach and supervise undergraduate courses in <i>cultural and social psychology</i>, while my doctoral research examines 
-      <i>violence as a social representation</i> — as a political and affective language of decolonial resistance.
-    </p>
-
-    <p>
-      <b>Education:</b><br>
-      • <b>Joint PhD</b> in Social Representations, Culture and Communication — University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy), <i>2022–ongoing</i><br>
-      • <b>MA</b> in Clinical and Health Psychology — Eötvös Loránd University (Budapest, Hungary), <i>2019–2021</i><br>
-      • <b>BA</b> in Psychology — University of Pécs (Hungary), <i>2016–2019</i>
-    </p>
-  </div>
-</section>
-
-  <section id="research">
-    <h2>Research</h2>
+    <h2>About</h2>
     <div class="card">
-      <p><b>Current Project:</b> "Violence as Representation: A Decolonial Reading through Social Representations Theory" — examining how political and affective dimensions of violence are constructed and legitimized across global contexts.</p>
-      <p><b>Keywords:</b> Decoloniality · Social Representations · Epistemic Justice · Collective Memory · Affect and Resistance</p>
+      <p>
+        My name is <b>Subas Ali</b>. I am an <b>Assistant Lecturer</b> and a <b>PhD Candidate</b> jointly affiliated with the 
+        <b>University of Pécs</b> (Hungary) and <b>La Sapienza University of Rome</b> (Italy), as part of the Joint Doctoral Program in 
+        <i>Social Representations, Culture and Communication</i> (2022–ongoing).
+      </p>
+
+      <p>
+        My research examines <b>decolonisation, social representations, and the geopolitics of knowledge (production)</b>, focusing on how 
+        psychology and academia reproduce or resist colonial power. Broadly, I am interested in <b>collective action</b> and the 
+        <b>affective and symbolic dimensions of violence</b> in political and revolutionary movements. My work also looks at how communities 
+        articulate resistance in light of systemic oppression, and how emotions such as <b>anger</b> and <b>hope</b> become mobilising 
+        forces for (social) change.
+      </p>
+
+      <p>
+        Additionally, I draw on <b>Dialogical Self Theory</b> and use <b>autoethnography</b> as a reflexive and decolonial methodological 
+        approach to explore <b>identity, positionality, and selfhood</b> from within these power structures. As an academic activist, 
+        my goal is to engage in scholarship that remains politically conscious and aligned with the principles for which I advocate.
+      </p>
+
+      <p>
+        I teach and supervise undergraduate courses in <i>cultural and social psychology</i>, while my doctoral research examines 
+        <i>violence as a social representation</i> — as a political and affective language of decolonial resistance.
+      </p>
+
+      <p>
+        <b>Education:</b><br>
+        • <b>Joint PhD</b> in Social Representations, Culture and Communication — University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy), <i>2022–ongoing</i><br>
+        • <b>MA</b> in Clinical and Health Psychology — Eötvös Loránd University (Budapest, Hungary), <i>2019–2021</i><br>
+        • <b>BA</b> in Psychology — University of Pécs (Hungary), <i>2016–2019</i>
+      </p>
     </div>
   </section>
 
- <section id="publications">
-  <h2>Publications</h2>
-  <div class="card">
-    <ol class="list" style="list-style-type: decimal;">
-
-      <li>Ali, S. A., Sarrica, M., Sammut, G., & Bigazzi, S. (2025). <i>Acts from the cracks: Representations and positions of the decolonial in the geopolitical (de)construction of power-entangled knowledge.</i> <em>British Journal of Social Psychology, 64</em>(1), e12835. 
-        <a href="https://doi.org/10.1111/bjso.12835" target="_blank" rel="noopener">https://doi.org/10.1111/bjso.12835</a>
-      </li>
-
-      <li>Serdült, S., Harmouche, M., Ali, S. A., & Bigazzi, S. (2022). <i>Refugee crisis in the light of identity.</i> <em>Papers on Social Representations, 31</em>(1), 3–1. 
-        <a href="https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity" target="_blank" rel="noopener">
-          https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity
-        </a>
-      </li>
-
-    </ol>
-  </div>
-</section>
-
-  <section id="teaching">
-    <h2>Teaching</h2>
+  <section id="publications">
+    <h2>Publications</h2>
     <div class="card">
-      <ul class="list">
-        <li><b>Cultural Psychology</b> — Lecturer, BA in Psychology, University of Pécs.</li>
-        <li><b>Peace Psychology</b> — Lecturer, BA in Psychology, University of Pécs.</li>
-        <li><b>Occupational Socialisation</b> — Instructor, Joint International Psychology Program.</li>
-      </ul>
+      <ol class="list" style="list-style-type: decimal;">
+        <li>Ali, S. A., Sarrica, M., Sammut, G., &amp; Bigazzi, S. (2025). <i>Acts from the cracks: Representations and positions of the decolonial in the geopolitical (de)construction of power-entangled knowledge.</i> <em>British Journal of Social Psychology, 64</em>(1), e12835. 
+          <a href="https://doi.org/10.1111/bjso.12835" target="_blank" rel="noopener">https://doi.org/10.1111/bjso.12835</a>
+        </li>
+
+        <li>Serdült, S., Harmouche, M., Ali, S. A., &amp; Bigazzi, S. (2022). <i>Refugee crisis in the light of identity.</i> <em>Papers on Social Representations, 31</em>(1), 3–1. 
+          <a href="https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity" target="_blank" rel="noopener">
+            https://www.researchgate.net/publication/361287554_Refugee_Crisis_in_the_Light_of_Identity
+          </a>
+        </li>
+      </ol>
     </div>
   </section>
 
@@ -215,9 +217,9 @@
       </p>
       <p><b>Office:</b> Faculty of Humanities and Social Sciences, University of Pécs</p>
       <p><b>Links:</b> 
-        <a href="https://scholar.google.com/">Google Scholar</a> · 
-        <a href="https://orcid.org/">ORCID</a> · 
-        <a href="https://linkedin.com/">LinkedIn</a>
+        <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=NY5oD_YAAAAJ" target="_blank" rel="noopener">Google Scholar</a> · 
+        <a href="https://orcid.org/0000-0001-5346-9214" target="_blank" rel="noopener">ORCID</a> · 
+        <a href="https://linkedin.com/" target="_blank" rel="noopener">LinkedIn</a>
       </p>
     </div>
   </section>
