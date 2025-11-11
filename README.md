@@ -125,6 +125,16 @@
     ]
   }
   </script>
+  <style>
+/* Hide any GitHub Pages/Jekyll site title/header that might appear above your content */
+.site-title, .site-name, .masthead, .site-header, .page-header, .site-footer,
+.navbar, header[role="banner"], footer[role="contentinfo"] { display: none !important; }
+
+/* Ultra-defensive: hide an orphan top link that equals the repo/site name */
+body > a:first-child[href*="github.io"],
+body > a:first-child[href*="subasali"],
+body > a:first-child[href*="github.com"] { display: none !important; }
+</style>
 </head>
 
 <body>
