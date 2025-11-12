@@ -94,23 +94,6 @@
       flex-wrap: wrap;
       gap: 8px;
     }
-    /* --- Force hide the GitHub Pages banner in all cases --- */
-    /* Target if GitHub injects the link before <body> */
-    html > body > a:first-of-type,
-    html > a:first-of-type,
-    html > div:first-child > a:first-child,
-    body > a:first-of-type,
-    a[href*="subasali.github.io"],
-    a[href*="github.com/subasali"] {
-      display: none !important;
-      visibility: hidden !important;
-      opacity: 0 !important;
-      pointer-events: none !important;
-      height: 0 !important;
-      overflow: hidden !important;
-      position: absolute !important;
-      top: -9999px !important;
-    }
     @media (max-width: 700px) {
       header {
         flex-direction: column;
@@ -119,7 +102,29 @@
       nav a { margin: 0 10px 0 0; }
       h1 { font-size: 26px; }
     }
+    </style> <!-- end of your main style block -->
+
+  <!-- Kill any GitHub Pages link/banner -->
+  <style>
+    html > a[href*="github.io"],
+    html > a[href*="github.com"],
+    body > a[href*="github.io"],
+    body > a[href*="github.com"] {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      height: 0 !important;
+      overflow: hidden !important;
+      pointer-events: none !important;
+      position: absolute !important;
+      top: -9999px !important;
+    }
   </style>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('a[href*="github.io"], a[href*="github.com"]').forEach(el => el.remove());
+    });
+  </script>
 
   <!-- Structured Data -->
   <script type="application/ld+json">
