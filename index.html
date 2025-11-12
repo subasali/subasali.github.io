@@ -130,20 +130,31 @@
 
     /* Minimalist Table Styling */
     table {
-      display: block; /* Allows it to be scrollable */
-      overflow-x: auto; /* Adds horizontal scrollbar ONLY if needed */
       width: 100%;
       border-collapse: collapse;
       font-size: 15px;
       margin-top: 1.5em;
     }
-    table th, table td {
-      padding: 12px 4px; /* Tighter padding like Notion */
+   table th, table td {
+      padding: 14px 8px; /* More breathing room */
       text-align: left;
       border-bottom: 1px solid var(--border);
       vertical-align: top;
-      white-space: nowrap; 
+      line-height: 1.5; /* Better spacing for wrapped lines */
     }
+    
+    /* --- NEW TABLE COLUMN WIDTHS --- */
+    /* This sets proportional widths for a balanced layout */
+    table th:nth-child(1), table td:nth-child(1) { width: 30%; } /* Conference */
+    table th:nth-child(2), table td:nth-child(2) { width: 15%; } /* Title / Session */
+    table th:nth-child(3), table td:nth-child(3) { width: 10%; } /* Role */
+    table th:nth-child(4), table td:nth-child(4) { width: 15%; } /* Location */
+    table th:nth-child(5), table td:nth-child(5) { width: 18%; } /* Organisation */
+    table th:nth-child(6), table td:nth-child(6) { 
+      width: 12%; 
+      white-space: nowrap; /* Keep dates from breaking */
+    }
+    /* --- END NEW RULES --- */
     table thead th {
       font-weight: 500;
       color: var(--muted);
