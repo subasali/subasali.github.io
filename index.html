@@ -5,29 +5,31 @@
   <title>Subas Ali — Academic Profile</title>
   <meta name="description" content="Academic profile of Subas Ali: Assistant Lecturer and PhD Candidate at the University of Pécs and La Sapienza University in Rome." />
 
- <style>
-    :root {
-      --bg: #f9f9f9;
+   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+   :root {
+      --bg: #ffffff;
       --fg: #1a1a1a;
       --muted: #666;
-      --card: #ffffff;
-      --border: #e5e7eb;
-      --accent: #0056b3; 
+      --card: #f9f9f9;
+      --border: #f0f0f0;
+      --accent: #0b69a3; /* A subtle, academic blue */
       --max: 860px;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg: #111111;
+        --bg: #191919;
         --fg: #e1e1e1;
         --muted: #999;
-        --card: #1c1c1c;
+        --card: #222222;
         --border: #333;
         --accent: #409cff;
       }
     }
     body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
-                   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", 
+                   Roboto, Helvetica, Arial, sans-serif;
       background: var(--bg);
       color: var(--fg);
       line-height: 1.7;
@@ -40,28 +42,29 @@
       color: var(--accent);
       text-decoration: none;
       font-weight: 500;
-      transition: color 0.2s ease;
+      border-bottom: 1px solid rgba(11, 105, 163, 0.2);
+      transition: all 0.2s ease;
     }
     a:hover {
-      text-decoration: underline;
-      color: var(--fg);
+      border-bottom-color: var(--accent);
+      color: var(--accent);
     }
     .wrap {
       max-width: var(--max);
       margin: 0 auto;
-      padding: 40px 18px 80px;
+      padding: 60px 24px 80px;
     }
     header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 50px;
+      margin-bottom: 60px;
       flex-wrap: wrap;
       gap: 12px;
     }
     .name {
-      font-size: 28px;
-      font-weight: 700;
+      font-size: 24px;
+      font-weight: 600;
       letter-spacing: -0.5px;
     }
     nav {
@@ -69,72 +72,81 @@
       gap: 8px;
     }
     nav a {
-      margin-left: 12px;
+      margin-left: 8px;
       text-decoration: none;
-      font-size: 16px;
+      font-size: 15px;
       font-weight: 500;
       color: var(--muted);
-      padding: 6px 4px;
-      border-bottom: 2px solid transparent;
+      padding: 6px 10px;
+      border-radius: 6px;
+      border-bottom: none;
       transition: all 0.2s ease;
     }
     nav a:hover {
       color: var(--fg);
-      border-bottom-color: var(--accent);
+      background-color: var(--card);
     }
     h1 {
-      font-size: 34px;
+      font-size: 36px;
       margin-bottom: 10px;
       font-weight: 700;
-      letter-spacing: -0.5px;
+      letter-spacing: -0.02em;
     }
     h2 {
-      text-transform: uppercase;
-      font-size: 16px;
+      /* This is for the "ABOUT", "PUBLICATIONS" titles */
+      font-size: 24px;
       font-weight: 600;
-      letter-spacing: 0.1em;
+      letter-spacing: -0.01em;
+      text-transform: none; /* Removed uppercase */
       margin-top: 50px;
       margin-bottom: 16px;
-      padding-bottom: 6px;
+      padding-bottom: 8px;
       border-bottom: 1px solid var(--border);
     }
     h3 {
-      font-size: 18px;
+      /* This is for the "2025", "2024" titles in the cards */
+      font-size: 20px;
       font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    p {
+      margin-bottom: 1.25em;
     }
     .card {
       background: var(--card);
-      padding: 20px 24px;
-      border-radius: 12px;
+      padding: 22px 26px;
+      border-radius: 8px;
       margin-bottom: 24px;
       border: 1px solid var(--border);
-      box-shadow: 0 1px 3px rgba(0,0,0,0.02), 0 1px 2px rgba(0,0,0,0.04);
+      /* Removed box-shadow for a flatter, more Notion-like look */
     }
     .list {
       padding-left: 1.5rem;
     }
     .list li {
-      margin-bottom: 10px;
+      margin-bottom: 12px;
+      padding-left: 4px;
     }
 
-    /* Table Styling */
+    /* Minimalist Table Styling */
     table {
       width: 100%;
       border-collapse: collapse;
       font-size: 15px;
+      margin-top: 1.5em;
     }
     table th, table td {
-      padding: 12px 8px;
+      padding: 12px 4px; /* Tighter padding like Notion */
       text-align: left;
       border-bottom: 1px solid var(--border);
       vertical-align: top;
     }
     table thead th {
-      font-weight: 600;
+      font-weight: 500;
       color: var(--muted);
       font-size: 14px;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
+      text-transform: none; /* No uppercase */
+      padding-bottom: 10px;
     }
     table tbody tr:last-child td {
       border-bottom: none;
@@ -142,8 +154,8 @@
     
     footer {
       border-top: 1px solid var(--border);
-      margin-top: 50px;
-      padding-top: 20px;
+      margin-top: 60px;
+      padding-top: 24px;
       color: var(--muted);
       font-size: 14px;
       display: flex;
@@ -151,7 +163,11 @@
       flex-wrap: wrap;
       gap: 8px;
     }
+    
     @media (max-width: 700px) {
+      .wrap {
+        padding: 40px 18px 80px;
+      }
       header {
         flex-direction: column;
         align-items: flex-start;
@@ -159,12 +175,15 @@
       }
       nav {
         width: 100%;
-        justify-content: space-between;
+        justify-content: flex-start;
+        gap: 0;
       }
       nav a { 
-        margin: 0;
+        margin: 0 10px 0 0;
+        padding: 6px;
       }
       h1 { font-size: 28px; }
+      h2 { font-size: 22px; }
       .card { padding: 16px 18px; }
       
       /* Make tables scrollable on mobile */
