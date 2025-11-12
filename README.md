@@ -124,17 +124,21 @@
     ]
   }
   </script>
-  <style>
+<style>
 /* Hide any GitHub Pages/Jekyll site title/header that might appear above your content */
 .site-title, .site-name, .masthead, .site-header, .page-header, .site-footer,
 .navbar, header[role="banner"], footer[role="contentinfo"] { display: none !important; }
 
-/* Ultra-defensive: hide an orphan top link that equals the repo/site name */
-body > a:first-child[href*="github.io"],
-body > a:first-child[href*="subasali"],
-body > a:first-child[href*="github.com"] { display: none !important; }
+/* NEW: More aggressive rule for the top link. 
+  This targets any link that is a direct child of the body 
+  and has "subasali" in its URL, not just the first one.
+*/
+body > a[href*="github.io"],
+body > a[href*="subasali"],
+body > a[href*="github.com"] { display: none !important; }
 </style>
 </head>
+
 
 <body>
 <div class="wrap">
