@@ -178,21 +178,59 @@
       gap: 8px;
     }
  @media (max-width: 700px) {
-
-      /* --- MOBILE TABLE FIX --- */
-      /* This makes the table scroll horizontally on small screens */
-      table {
+      /* This transforms the table into a list of "cards" on mobile */
+      
+      /* Reset the table and hide the header */
+      table, table thead {
         display: block;
-        overflow-x: auto;
+        width: 100%;
       }
-
-      /* This resets the column widths and stops text from wrapping
-         so the scrolling version looks clean. */
-      table th, table td {
-        width: auto !important; /* Overrides the desktop percentages */
-        white-space: nowrap;   /* Keeps all content on one line */
+      table thead {
+        display: none;
       }
-      /* --- END MOBILE FIX --- */
+      
+      /* Make each row its own card */
+      table tr {
+        display: block;
+        margin-bottom: 1.5em;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 1em;
+      }
+      
+      /* Make cells stack vertically */
+      table td {
+        display: block;
+        text-align: right; /* Aligns the content to the right */
+        padding: 10px 4px;
+        border-bottom: 1px dotted var(--border);
+        white-space: normal; /* Allows text to wrap */
+        width: 100% !important; /* Overrides desktop widths */
+        line-height: 1.5;
+      }
+      
+      table td:last-child {
+        border-bottom: none; /* No border on the last item */
+      }
+      
+      /* Add the "header" label before each cell */
+      table td::before {
+        float: left;
+        font-weight: 600;
+        color: var(--fg);
+        text-align: left;
+        padding-right: 10px;
+      }
+      
+      /* Set the labels for each column */
+      table td:nth-of-type(1)::before { content: "Conference"; }
+      table td:nth-of-type(2)::before { content: "Title/Session"; }
+      table td:nth-of-type(3)::before { content: "Role"; }
+      table td:nth-of-type(4)::before { content: "Location"; }
+      table td:nth-of-type(5)::before { content: "Organisation"; }
+      table td:nth-of-type(6)::before { content: "Date"; }
+      /* --- END REAL FIX --- */
+   
 
       .wrap {
         padding: 40px 18px 80px;
