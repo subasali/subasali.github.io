@@ -155,6 +155,12 @@ body > a:first-child[href*="github.com"] { display: none !important; }
 </head>
 
 <body>
+  <script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const rogueLink = document.querySelector('html > a[href*="github.io"], html > a[href*="github.com"]');
+    if (rogueLink) rogueLink.remove();
+  });
+</script>
 <div class="wrap">
 
   <header>
