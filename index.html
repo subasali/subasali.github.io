@@ -72,19 +72,18 @@
       gap: 8px;
     }
     nav a {
-      margin-left: 8px;
+      margin-left: 16px;
       text-decoration: none;
       font-size: 15px;
       font-weight: 500;
       color: var(--muted);
-      padding: 6px 10px;
-      border-radius: 6px;
-      border-bottom: none;
+      padding-bottom: 3px; /* Gives space for the line */
+      border-bottom: 1px dotted var(--muted); /* The dotted line */
       transition: all 0.2s ease;
     }
     nav a:hover {
       color: var(--fg);
-      background-color: var(--card);
+      border-bottom-color: var(--fg); /* Line gets darker on hover */
     }
     h1 {
       font-size: 36px;
@@ -246,8 +245,9 @@
         gap: 0;
       }
       nav a { 
-        margin: 0 10px 0 0;
-        padding: 6px;
+        margin: 0 16px 0 0; /* Adjusts spacing */
+        padding: 0; /* Removes old padding */
+        padding-bottom: 3px; /* Keeps space for the line */
       }
       h1 { font-size: 28px; }
       h2 { font-size: 22px; }
