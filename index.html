@@ -130,6 +130,7 @@
     .list li {
       margin-bottom: 12px;
       padding-left: 4px;
+      overflow-wrap: break-word; /* ADD THIS LINE */
     }
 
     /* Minimalist Table Styling */
@@ -203,9 +204,9 @@
       }
       
       /* Make cells stack vertically */
-      table td {
+     table td {
         display: block;
-        text-align: right; /* Aligns the content to the right */
+        text-align: left; /*
         padding: 10px 4px;
         border-bottom: 1px dotted var(--border);
         white-space: normal; /* Allows text to wrap */
