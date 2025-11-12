@@ -94,6 +94,15 @@
       flex-wrap: wrap;
       gap: 8px;
     }
+    /* Force-hide GitHub Pages banner or repo link */
+body > a:first-of-type,
+a[href*="subasali.github.io"],
+a[href*="github.com/subasali"] {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
     @media (max-width: 700px) {
       header {
         flex-direction: column;
@@ -152,7 +161,7 @@ body > a:first-child[href*="github.com"] { display: none !important; }
   </header>
 
   <section id="intro">
-    <h1>Assistant Lecturer &amp; PHD Candidate</h1>
+    <h1>Assistant Lecturer &amp; PhD Candidate</h1>
     <p><b>Institutions:</b> University of Pécs (Hungary) &amp; La Sapienza University of Rome (Italy)</p>
     <p><b>Email:</b> 
       <a href="mailto:amjad.subas@edu.pte.hu">amjad.subas@edu.pte.hu</a> · 
