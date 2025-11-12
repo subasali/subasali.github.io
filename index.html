@@ -177,8 +177,23 @@
       flex-wrap: wrap;
       gap: 8px;
     }
-    
-    @media (max-width: 700px) {
+ @media (max-width: 700px) {
+
+      /* --- MOBILE TABLE FIX --- */
+      /* This makes the table scroll horizontally on small screens */
+      table {
+        display: block;
+        overflow-x: auto;
+      }
+
+      /* This resets the column widths and stops text from wrapping
+         so the scrolling version looks clean. */
+      table th, table td {
+        width: auto !important; /* Overrides the desktop percentages */
+        white-space: nowrap;   /* Keeps all content on one line */
+      }
+      /* --- END MOBILE FIX --- */
+
       .wrap {
         padding: 40px 18px 80px;
       }
