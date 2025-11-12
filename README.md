@@ -94,15 +94,23 @@
       flex-wrap: wrap;
       gap: 8px;
     }
-    /* Force-hide GitHub Pages banner or repo link */
-body > a:first-of-type,
-a[href*="subasali.github.io"],
-a[href*="github.com/subasali"] {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  overflow: hidden !important;
-}
+    /* --- Force hide the GitHub Pages banner in all cases --- */
+    /* Target if GitHub injects the link before <body> */
+    html > body > a:first-of-type,
+    html > a:first-of-type,
+    html > div:first-child > a:first-child,
+    body > a:first-of-type,
+    a[href*="subasali.github.io"],
+    a[href*="github.com/subasali"] {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+      height: 0 !important;
+      overflow: hidden !important;
+      position: absolute !important;
+      top: -9999px !important;
+    }
     @media (max-width: 700px) {
       header {
         flex-direction: column;
