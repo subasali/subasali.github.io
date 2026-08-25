@@ -1,23 +1,22 @@
 # Subas Ali — Academic Website
 
-Static multi-page site (plain HTML/CSS/JS). No build step, no backend, no dependencies.
+Seven self-contained HTML pages. The CSS, JavaScript, and portrait photo are
+baked INSIDE each .html file, so there are no folders and nothing that can break.
 
-## Deploy on GitHub Pages
-1. Upload all files to your repository (keep the folder structure: css/, js/, assets/).
-2. In the repo: Settings → Pages → Build and deployment → Source: "Deploy from a branch",
-   pick your branch and the root (/) folder. Save.
-3. The `.nojekyll` file (included) tells GitHub Pages to serve every folder as-is.
-4. Keep any existing `CNAME` file if you use a custom domain (e.g. subasali.com).
+## How to publish on GitHub (replace the old site)
+1. Open your repository on github.com.
+2. Add file -> Upload files.
+3. Drag in these 7 files: index.html, about.html, research.html,
+   publications.html, teaching.html, conferences.html, contact.html
+   (You can also drag in .nojekyll and this README, but they are optional.)
+4. Commit changes. Your old index.html is overwritten by the new one.
+
+That's it — no css/, js/, or assets/ folders to worry about. Uploading does not
+delete other files, so any CNAME (custom domain) file stays in place.
 
 ## Contact form
-No backend is used. The "Send a message" form opens the visitor's own email app
-with the message pre-filled to amjad.subas@edu.pte.hu. The email links/buttons work
-the same way. (If you later want messages captured server-side, a free Formspree
-endpoint can be dropped into the form's action — ask and it can be wired up.)
+No backend. The form opens the visitor's email app with the message pre-filled
+to amjad.subas@edu.pte.hu. The email links work the same way.
 
-## Structure
-- index.html, about.html, research.html, publications.html, teaching.html,
-  conferences.html, contact.html
-- css/styles.css, js/main.js, assets/portrait.png
-
-Pages are generated from build_site.py (development helper; not needed to deploy).
+(build_site.py and the css/js/assets folders are development sources only —
+you do NOT need to upload them. Everything is already inlined into the .html files.)
