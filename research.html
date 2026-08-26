@@ -16,14 +16,14 @@
    ============================================================ */
 
 :root {
-  --bg: #f3ede1;
-  --surface: #faf6ee;
-  --surface-2: #ece3d2;
-  --fg: #2a2420;
-  --muted: #6a6055;
-  --faint: #948977;
-  --border: #e2d7c4;
-  --border-strong: #d0c4ac;
+  --bg: #e6efe1;
+  --surface: #f4f8ef;
+  --surface-2: #dbe7d3;
+  --fg: #22291d;
+  --muted: #58614e;
+  --faint: #85907a;
+  --border: #cedcc6;
+  --border-strong: #bacbaf;
   --accent: #a4432f;
   --accent-hover: #86331f;
   --accent-soft: rgba(164, 67, 47, 0.13);
@@ -32,19 +32,19 @@
   --serif: "Times New Roman", Times, Georgia, serif;
   --sans: "Times New Roman", Times, Georgia, serif;
   --radius: 12px;
-  --shadow: 0 1px 2px rgba(60,45,30,0.05), 0 10px 30px rgba(90,60,35,0.08);
+  --shadow: 0 1px 2px rgba(30,45,25,0.05), 0 10px 30px rgba(35,60,30,0.09);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #1b1815;
-    --surface: #241f19;
-    --surface-2: #2c261e;
-    --fg: #ece4d6;
-    --muted: #b3a892;
-    --faint: #8a7f6d;
-    --border: #342e26;
-    --border-strong: #443c30;
+    --bg: #161c14;
+    --surface: #1d241a;
+    --surface-2: #232c1f;
+    --fg: #e7ecdf;
+    --muted: #a9b39b;
+    --faint: #7f8a71;
+    --border: #2e3729;
+    --border-strong: #3d4836;
     --accent: #e2906f;
     --accent-hover: #eea587;
     --accent-soft: rgba(226, 144, 111, 0.16);
@@ -61,7 +61,7 @@ body {
   background-color: var(--bg);
   background-image:
     radial-gradient(closest-side at 12% -5%, var(--accent-soft), transparent 70%),
-    radial-gradient(closest-side at 100% 108%, rgba(20, 80, 122, 0.06), transparent 70%);
+    radial-gradient(closest-side at 100% 108%, rgba(47, 107, 67, 0.09), transparent 70%);
   background-attachment: fixed;
   background-repeat: no-repeat;
   color: var(--fg);
@@ -103,7 +103,7 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.2; margin: 0 0 0.6em; }
 h3 { font-size: 1.25rem; margin: 0 0 0.4em; }
 h4 { font-size: 1.05rem; margin: 0 0 0.3em; }
 p { margin: 0 0 1.15em; }
-.measure { max-width: var(--measure); }
+.measure { max-width: var(--measure); margin-left: auto; margin-right: auto; }
 .lead { font-size: 1.15rem; color: var(--fg); }
 
 .eyebrow {
@@ -117,7 +117,7 @@ p { margin: 0 0 1.15em; }
   display: block;
 }
 
-.section-head { margin-bottom: 34px; }
+.section-head { margin-bottom: 34px; text-align: center; }
 .section-head .eyebrow { margin-bottom: 10px; }
 .section-head h2 { margin-bottom: 0; }
 
@@ -251,24 +251,28 @@ a:focus-visible, button:focus-visible {
   border: 1px solid var(--border);
   border-radius: 18px;
   box-shadow: var(--shadow);
-  padding: 34px 38px;
-  max-width: 860px;
+  padding: 40px 44px;
+  max-width: 880px;
+  margin: 0 auto;
+  text-align: center;
   position: relative;
   overflow: hidden;
 }
 .hero-card::before {
   content: "";
   position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 5px;
+  left: 0; right: 0; top: 0;
+  height: 5px;
   background: var(--accent);
   opacity: 0.85;
 }
 .hero-id {
   display: flex;
   align-items: center;
-  gap: 24px;
-  margin-bottom: 20px;
+  justify-content: center;
+  gap: 26px;
+  margin-bottom: 22px;
+  text-align: left;
 }
 .hero-id .eyebrow { margin-bottom: 8px; }
 .hero-id h1 { margin: 0 0 0.1em; }
@@ -284,15 +288,15 @@ a:focus-visible, button:focus-visible {
 .hero-bio {
   font-size: 1.12rem;
   color: var(--fg);
-  max-width: 62ch;
-  margin: 0 0 1.5em;
+  max-width: 60ch;
+  margin: 0 auto 1.6em;
 }
-.hero-meta { list-style: none; padding: 0; margin: 0 0 1.6em; }
+.hero-meta { list-style: none; padding: 0; margin: 0 auto 1.6em; max-width: 580px; text-align: left; }
 .hero-meta li { display: flex; gap: 12px; padding: 7px 0; border-top: 1px solid var(--border); font-size: 0.98rem; }
 .hero-meta li:last-child { border-bottom: 1px solid var(--border); }
 .hero-meta .k { flex: 0 0 118px; color: var(--faint); font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; padding-top: 3px; font-weight: 600; }
 .hero-meta .v { flex: 1; }
-.hero-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 6px; }
+.hero-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 6px; justify-content: center; }
 
 .portrait {
   width: clamp(96px, 13vw, 134px);
@@ -594,7 +598,7 @@ table.data tbody tr:hover { background: var(--surface); }
   </section>
   <section class="section wrap">
     <div class="section-head"><span class="eyebrow">Areas</span><h2>Research areas</h2></div>
-    <div class="measure" style="display:flex;flex-wrap:wrap;gap:10px;">
+    <div class="measure" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
       <span class="linkchip" style="cursor:default;color:var(--fg);">Social Representations</span>
       <span class="linkchip" style="cursor:default;color:var(--fg);">Decolonial Theory</span>
       <span class="linkchip" style="cursor:default;color:var(--fg);">Peace Psychology</span>
